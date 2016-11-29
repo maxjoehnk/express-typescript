@@ -1,0 +1,14 @@
+{
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node lib/index.js"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-typescript": "file:../../"
+  },
+  "devDependencies": {
+    "@types/express": "^4.0.34",
+    "typescript": "^2.0.10"
+  }
+}
