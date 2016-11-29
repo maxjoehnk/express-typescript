@@ -1,0 +1,5 @@
+src/
+examples/
+*.js.map
+tsconfig.json
+tslint.json
