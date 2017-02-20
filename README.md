@@ -1,5 +1,7 @@
 # express-typescript
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/maxjoehnk/express-typescript.svg)](https://greenkeeper.io/)
+
 Use Typescript Decorators to define express routes
 
 ## Usage
